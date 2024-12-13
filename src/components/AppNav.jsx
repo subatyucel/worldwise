@@ -1,9 +1,5 @@
 function AppNav() {
-  return (
-    <div>
-      <h1>selam</h1>
-    </div>
-  );
+  return <div>appnav</div>;
 }
 
 export default AppNav;
