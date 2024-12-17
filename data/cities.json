@@ -1,16 +1,3 @@
 {
-  "cities": [
-    {
-      "id": "6407",
-      "cityName": "Vallelado",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-12-17T18:27:36.036Z",
-      "notes": "fds",
-      "position": {
-        "lat": "41.424620189471156",
-        "lng": "-4.436508166578322"
-      }
-    }
-  ]
+  "cities": []
 }
